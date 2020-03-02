@@ -14,22 +14,6 @@
                     <key>url</key>
                     <string>http://47.92.127.134/cq.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>第二处：logo地址：/*https://down.test.com/logo.png*/</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>第三处：logo地址：/*https://down.test.com/logo.png*/</string>
-                </dict>
             </array>
             <key>metadata</key>
             <dict>
